@@ -1,0 +1,2 @@
+# In case you forget the name of a command, print possible commands relating to any given word:
+apropos word
